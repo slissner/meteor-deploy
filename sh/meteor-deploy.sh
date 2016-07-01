@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ############## README ################
+##
 ## Configuration
 ##
 ## 1. Copy this script in your local app root folder
@@ -9,11 +10,16 @@
 ## 4. Make sure that mongoDb is already running on the server
 ## 5. Edit variables
 ##
+##
 ## Tested with server:
+##
 ## Ubuntu 14.04.4 LTS
 ## meteor --version 1.3.2.4
 ## node --version v0.10.41
 ## npm --version 3.10.3
+##
+## Author:
+## Samuel Lissner <http://www.slissner.de>
 
 ## Variables
 
