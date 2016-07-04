@@ -9,6 +9,9 @@
 ## 3. Add bundle/ to your .gitignore file
 ## 4. Make sure that mongoDb is already running on the server
 ## 5. Edit variables
+## 6.
+##    a. Run with ./deploy-meteor.sh prod (to deploy to production)
+##    b. Run with ./deploy-meteor.sh (to deploy to staging)
 ##
 ##
 ## Tested with server:
@@ -20,10 +23,6 @@
 ##
 ## Author:
 ## Samuel Lissner <http://www.slissner.de>
-
-## 6.
-##    a. Run with ./deploy-meteor.sh prod (to deploy to production)
-##    b. Run with ./deploy-meteor.sh (to deploy to staging)
 
 ## Variables
 
